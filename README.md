@@ -8,7 +8,7 @@ is a prose-centric version tailored to software developers. [formspree](http://f
 
 ## Demo
 
-View an example one-pager [here](http://chuckgroom.com/onepage-bio/)
+View an example one-pager [here](https://the-redgard.github.io/)
 
 ## Installation
 
